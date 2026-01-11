@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvo
 ---
 
 ## 👨‍💻 Sobre mim
-Sou [Seu Nome], desenvolvedor apaixonado por tecnologia e inovação.  
+Sou Tiago, desenvolvedor apaixonado por tecnologia e inovação.  
 Tenho experiência em:
 - Desenvolvimento web (HTML, CSS, JavaScript)
 - Frameworks modernos (React, Node.js, etc.)
